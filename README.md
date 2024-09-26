@@ -9,4 +9,4 @@ Modeling voter turnout, and understanding where low turnout is prevalent, can in
 
 porject link is below 
 
-https://www.arcgis.com/home/item.html?id=3570d7e5b1bd46d18de44cb590106bc0
+https://arcg.is/yijy40
