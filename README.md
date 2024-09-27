@@ -18,3 +18,15 @@ After preparing and visualizing your data, you are ready to begin your predictiv
 You will use this model to downscale voter turnout from the county level to the census tract level. This information will be used to organize a "Get Out the Vote" canvassing campaign. These campaigns encourage people to vote on Election Day. This model will help identify local regions that are expected to have low voter turnout so that you know where to target your campaign.
 
 www.arcgis.com/home/item.html?id=f3b8c80a24f84d1baf464f48aeb0516a
+
+## Suitability modeling 
+Goal: Choose a location for a corporate headquarters that has a minimal carbon footprint. This location should be situated and designed in a way that is attractive to prospective employees.
+
+Based on the goal for this suitability model, and a discussion with corporate leaders and subject-matter experts (SMEs), the criteria were identified. These criteria have been organized into four objectives to clarify how the criteria relate to each other.
+
+Building site: A location that reduces construction cost and is easily accessible by employees
+Energy independence: An optimal location to incorporate renewable energy devices
+Access to amenities: A location that is accessible to various amenities
+Environmental concerns: A location that will minimally disrupt critical environmental areas and corridors
+
+
