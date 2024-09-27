@@ -31,4 +31,8 @@ Environmental concerns: A location that will minimally disrupt critical environm
 
 www.arcgis.com/home/item.html?id=eb61b80b772248a1867118f779e7fb9f
 
+## Detect patterns
 
+Statistical cluster analysis can help you minimize the subjectivity in your maps by identifying meaningful clusters in your data. The Hot Spot Analysis and Outlier Analysis tools use statistics to detect spatial patterns in your data
+
+www.arcgis.com/home/item.html?id=26629f91b3d04b299068ecee4242d81b
