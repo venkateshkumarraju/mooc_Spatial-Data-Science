@@ -36,3 +36,9 @@ www.arcgis.com/home/item.html?id=eb61b80b772248a1867118f779e7fb9f
 Statistical cluster analysis can help you minimize the subjectivity in your maps by identifying meaningful clusters in your data. The Hot Spot Analysis and Outlier Analysis tools use statistics to detect spatial patterns in your data
 
 www.arcgis.com/home/item.html?id=26629f91b3d04b299068ecee4242d81b
+
+## Data patterns using space-time pattern mining
+
+Space-time pattern mining tools use statistics to incorporate the spatial and temporal aspects of your data to help you understand its spatiotemporal trends.
+
+www.arcgis.com/home/item.html?id=8cc852f5d0584d3faf0e434471a4e7dd
