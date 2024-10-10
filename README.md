@@ -15,7 +15,6 @@ Scenario
 
 Create models that predict voter turnout. These models will use explanatory variables, such as income and age, to predict the dependent variable, which is voter turnout.
 
-You will use this model to downscale voter turnout from the county level to the census tract level. This information will be used to organize a "Get Out the Vote" canvassing campaign. These campaigns encourage people to vote on Election Day. This model will help identify local regions that are expected to have low voter turnout so that you know where to target your campaign.
 
 www.arcgis.com/home/item.html?id=f3b8c80a24f84d1baf464f48aeb0516a
 
@@ -42,3 +41,12 @@ www.arcgis.com/home/item.html?id=26629f91b3d04b299068ecee4242d81b
 Space-time pattern mining tools use statistics to incorporate the spatial and temporal aspects of your data to help you understand its spatiotemporal trends.
 
 www.arcgis.com/home/item.html?id=8cc852f5d0584d3faf0e434471a4e7dd
+
+
+## Object Detection
+
+### Scenario
+Tax assessors at local government agencies often rely on surveys to estimate property value and calculate property taxes. These surveys are infrequent, which means that there can be some inaccuracy in the assessment records. Swimming pools are an important part of these assessments because they impact the value of a property.
+
+using  ArcGIS deep learning tools to detect all swimming pools in a defined area.
+
