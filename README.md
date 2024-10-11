@@ -1,11 +1,11 @@
 # Spatial Data Science
-## visualization 
+## Visualization 
 Data visualization is crucial for understanding information by using symbols to visually represent quantities and categories. It allows for quick comparisons and helps in perceiving relative proportions, patterns, relationships, and trends. Visualization is essential throughout the analysis process, from exploring data to interpreting results and communicating findings. ArcGIS offers various data visualization techniques.
 
 Scenario: In the United States, voter turnout significantly impacts election results and public policy due to voluntary voting. Modeling voter turnout and identifying areas with low participation can guide outreach efforts to boost voter engagement. This exercise uses various visualization techniques to explore voter turnout patterns and identify potential variables for predictive analysis.
 web map link www.arcgis.com/home/item.html?id=c085fe19c88345718d220ab9e29acf3a
 
-## prediction 
+## Prediction 
 Prediction is a key aspect of spatial data science. It can be used to forecast future values (e.g., predicting air quality for a specific location), downscale information (e.g., using county-level voter turnout data to predict turnout at the census tract level), or fill in missing dataset values.
 
 Scenario: Develop models to predict voter turnout using explanatory variables like income and age. These models will help predict the dependent variable, voter turnout.
