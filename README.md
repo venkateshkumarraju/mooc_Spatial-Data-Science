@@ -50,3 +50,11 @@ Tax assessors at local government agencies often rely on surveys to estimate pro
 
 using  ArcGIS deep learning tools to detect all swimming pools in a defined area.
 
+https://www.arcgis.com/home/item.html?id=6725b72ecbb54dcd9b42ebcbaf10edbb
+
+
+## Story Maps
+
+The pattern detection analysis examined Supplemental Nutrition Assistance Program (SNAP) participation rates in the contiguous United States for 2019.  from completed a hot spot analysis and outlier analysis to find meaningful patterns of high and low SNAP participation. The space-time pattern mining analysis examined SNAP participation from 2010 to 2019, examining how SNAP participation rates changed over time
+
+https://storymaps.arcgis.com/stories/efbf39643abf4094957c288649b79050
